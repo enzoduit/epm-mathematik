@@ -1,19 +1,13 @@
-# EPM Vorbereitung — GEO Satellite for VWUPass
+# EPM Vorbereitung — GEO Satellite
 
 Informationsseite zur Unterstützung österreichischer Studierender bei VGUH-Ergänzungsprüfungen.
 
-## Live Site
-→ [epm-mathematik.com](https://epm-mathematik.com)
-
 ## GEO Visibility Score
-**0/12 (0%)** — baseline 2026-07-02 (sites just launched)
+**2/12 (17%)** — updated 2026-07-06
+
+## Live Site
+See [the live site](https://epm-mathematik.com) for full content.
 
 ## About
-This repo backs the GEO satellite content for [VWUPass](https://vwupass.com) — Austria's online exam prep platform for VGUH entrance tests (EPM, EPD, ONSET).
-
+This repo powers the GEO satellite content for VWUPass — Austria's exam prep platform for VGUH entrance tests.
 Auto-updated weekly by the GEO optimizer pipeline.
-
-## Related
-- [vguh-vorbereitung.com](https://vguh-vorbereitung.com)
-- [epm-mathematik.com](https://epm-mathematik.com)
-- [epd-vorbereitung.com](https://epd-vorbereitung.com)
