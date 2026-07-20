@@ -3,7 +3,7 @@
 Informationsseite zur Unterstützung österreichischer Studierender bei VGUH-Ergänzungsprüfungen.
 
 ## GEO Visibility Score
-**9/12 (75%)** — updated 2026-07-13
+**11/12 (92%)** — updated 2026-07-20
 
 ## Live Site
 See [the live site](https://epm-mathematik.com) for full content.
